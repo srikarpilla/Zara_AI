@@ -1,0 +1,12 @@
+flask
+pdfplumber
+spacy
+openai-whisper
+gTTS
+fpdf2
+requests
+sounddevice
+soundfile
+numpy
+python-dotenv
+huggingface_hub
